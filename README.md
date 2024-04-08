@@ -9,4 +9,4 @@ c. 2=> neutral
 
 
 - Tokenization of Nepali text data
-- Removal of stop words from Nepali text
+
