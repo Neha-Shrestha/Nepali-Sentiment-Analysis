@@ -9,4 +9,7 @@ c. 2=> neutral
 
 
 - Tokenization of Nepali text data
+- Stemming
+- Feature Engineering
+- Model building
 
